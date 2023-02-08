@@ -56,7 +56,6 @@ And now the compilation and linking of the c++ program.
     (Terminal 2) - $ cangen vcan0
 ```
 to obtain :
-
 	![alt text](https://i.ibb.co/c2VLSb5/number1.png)
 
 - Testing in another terminal with :
@@ -64,7 +63,6 @@ to obtain :
     (Terminal 2) - $ ./send
 ```
 to obtain :
-
 	![alt text](https://i.ibb.co/98RYb2c/number2.png)
 
 ## License
